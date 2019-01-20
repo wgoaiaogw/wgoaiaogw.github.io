@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wgoaiaogw.com/"/>
-  <updated>2018-11-25T23:20:42.469Z</updated>
+  <updated>2019-01-20T15:10:24.803Z</updated>
   <id>http://blog.wgoaiaogw.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello Again</title>
+    <link href="http://blog.wgoaiaogw.com/2019/01/20/Hello%20Again/"/>
+    <id>http://blog.wgoaiaogw.com/2019/01/20/Hello Again/</id>
+    <published>2019-01-20T14:30:44.000Z</published>
+    <updated>2019-01-20T15:10:24.803Z</updated>
+    
+    <content type="html"><![CDATA[<p>刚建好站就A了段时间。。重新登上来想发布点什么，但怎么也用不了hexo的命令。。搜到<a href="https://www.jianshu.com/p/2f4aca924fdb" target="_blank">六一Irene61的简书</a>后恍然大悟，哈哈哈！<br>所以我要记得先cd blog然后cd hexo呦～</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;刚建好站就A了段时间。。重新登上来想发布点什么，但怎么也用不了hexo的命令。。搜到&lt;a href=&quot;https://www.jianshu.com/p/2f4aca924fdb&quot; target=&quot;_blank&quot;&gt;六一Irene61的简书&lt;/a&gt;后恍然大悟，哈哈哈！&lt;br&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="建站" scheme="http://blog.wgoaiaogw.com/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
